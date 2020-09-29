@@ -1,9 +1,8 @@
 # summarizer
+![](icons/banner_cropped.jpg)
 
 As all the world is currently learning and working online, we are providing them with a free application to summarize the large chunk of 
 text they have to read, so that rather than reading all of it, they can focus more on what's important.
-
-
 
 The app works as blah blah blah...
 
