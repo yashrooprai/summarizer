@@ -1,0 +1,1 @@
+this file is placed in this directory just for judgement,it will be in the android application package nonetheless
